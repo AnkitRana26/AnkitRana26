@@ -38,7 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrana26&" alt="ankitrana26" /></p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnkitRana26)](https://git.io/streak-stats)
+
 
 
 
