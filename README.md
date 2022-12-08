@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [Updated Soon](Updated Soon)
+- 👨‍💻 All of my projects are available at [Updated Soon](https://ankit-rana.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
 
