@@ -3,11 +3,11 @@
 
 <p align="center"><img  height="300px" width="400px" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="gif"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrana26&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrana26" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitrana26&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrana26" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitrana26" alt="ankitrana26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ar987111" target="blank"><img src="https://img.shields.io/twitter/follow/ar987111?logo=twitter&style=for-the-badge" alt="ar987111" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ar987111" target="blank"><img src="https://img.shields.io/twitter/follow/ar987111?logo=twitter&style=for-the-badge" alt="ar987111" /></a> </p>
 
 - 🔭 I’m currently working on **my personal development**
 
