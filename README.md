@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Rana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="center" height="300px" width="300px" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif" alt="gif"/>
+<img align="center" height="300px" width="400px" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif" alt="gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrana26&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrana26" /> </p>
 
