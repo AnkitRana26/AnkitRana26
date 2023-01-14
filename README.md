@@ -7,11 +7,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitrana26" alt="ankitrana26" /></a> </p>
 
-- 🔭 I’m currently working on **my personal development**
 
-- 🌱 I’m currently learning **NodeJs**
-
-- 👨‍💻 All of my projects are available at [Ankit Rana](https://ankit-rana.netlify.app/)
+- 👨‍💻 All of my projects are available at [Ankit Rana](https://ranankit.com)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
 
